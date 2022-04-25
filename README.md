@@ -13,8 +13,6 @@ Team Cymru provides daily lists of compromised or abused devices for the ASNs an
 
 ### - Documentation: https://www.team-cymru.com/CSIRT-AP.html https://www.cymru.com/$certname/report_info.txt
 
-### - Description: Team Cymru provides daily lists of compromised or abused devices for the ASNs and/or netblocks with a CSIRT’s jurisdiction. This includes such information as bot infected hosts, command and control systems, open resolvers, malware urls, phishing urls, and brute force attacks
-
 ### - Additional Information: “Two feeds types are offered:
 
   * The new https://www.cymru.com/$certname/$certname_{time[%Y%m%d]}.txt
