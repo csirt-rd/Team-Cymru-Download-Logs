@@ -26,7 +26,7 @@ Both formats are supported by the parser and the new one is recommended. As of 2
 ### - Module: intelmq.bots.collectors.http.collector_http
 
 ### - Configuration Parameters:
-http_password: {{your password}}
+   * http_password: {{your password}}
 
    * http_url: https://www.cymru.com/$certname/$certname_{time[%Y%m%d]}.txt
 
